@@ -116,9 +116,6 @@ OpenCat shows up in **AI robotics education** across K-12 programs, community co
 
 - [r/OpenCat](https://www.reddit.com/r/OpenCat/) — firmware code, framework hacking, extending and porting OpenCat
 - [r/Petoi](https://www.reddit.com/r/Petoi/) — hardware Q&A, builds, quadruped coding, RL experiments, curriculum, 3D-printed parts, general discussion
-- [Facebook Group](https://www.facebook.com/groups/385050523510952) — community discussion and builds
-
----
 
 ## Resources
 
